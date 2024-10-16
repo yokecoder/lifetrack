@@ -1,0 +1,16 @@
+{
+  "name": "Life Track",
+  "short_name": "LifeTrack",
+  "description": "A web app for tracking habits, tasks, and finances. (tracking, productivity) ",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#1a1a1a",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./lifetrack_logo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    }
+  ]
+}
